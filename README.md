@@ -21,7 +21,7 @@ Instructions to set this up:
 ### 👨‍💻 About Me
 
 - 🎓 Currently pursuing my B.Tech in **Computer Science and Engineering** at SRM Institute of Science and Technology (8.9 CGPA).
-- 💼 Currently working as a **Full Stack Developer Intern** at Prasunet Pvt Ltd.
+- 💼 Worked as a **Full Stack Developer Intern** at Prasunet Pvt Ltd (March 2025 - April 2025).
 - ⚙️ Deep-diving into **Kubernetes**, **Terraform**, and advanced **AWS** cloud infrastructure.
 - ☁️ Interested in: **DevOps Engineering, Cloud Computing, Full Stack Development, and CI/CD Automation**.
 - 📫 How to reach me: **[vineeshreddy4@gmail.com](mailto:vineeshreddy4@gmail.com)**
