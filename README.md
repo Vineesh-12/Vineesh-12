@@ -10,7 +10,7 @@ Instructions to set this up:
 
 <h1 align="center">Hi there, I'm Vineesh Reddy 👋</h1>
 
-<h3 align="center">🚀 Aspiring DevOps Engineer & Full Stack Developer | CS Undergrad @ SRMIST</h3>
+<h3 align="center"> Aspiring DevOps Engineer & Full Stack Developer | CS Undergrad @ SRMIST</h3>
 
 <p align="center">
   I am a Computer Science engineering student with a strong foundation in cloud computing, infrastructure deployment, and web application development. Passionate about automating systems, building scalable infrastructure, and creating dynamic web experiences.
@@ -52,7 +52,7 @@ Instructions to set this up:
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 - **[Automated CI/CD Deployment of Inventory System on AWS](https://github.com/Vineesh-12)**
   *Terraform | Ansible | Docker | Kubernetes | Jenkins | AWS*
@@ -83,7 +83,7 @@ Instructions to set this up:
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/vineesh-reddy-845732326" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:vineeshreddy4@gmail.com" target="_blank">
