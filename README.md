@@ -89,8 +89,22 @@ Instructions to set this up:
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vineesh-12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineesh-12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vineesh-12&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Vineesh-12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&cache_seconds=3600" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineesh-12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=3600" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Vineesh-12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+
 </div>
 
 ---
