@@ -20,7 +20,7 @@ Instructions to set this up:
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently pursuing my B.Tech in **Computer Science and Engineering** at SRM Institute of Science and Technology (8.9 CGPA).
+- 🎓 Currently pursuing my B.Tech in **Computer Science and Engineering** at SRM Institute of Science and Technology (2023-2027).
 - 💼 Worked as a **Full Stack Developer Intern** at Prasunet Pvt Ltd (March 2025 - April 2025).
 - ⚙️ Deep-diving into **Kubernetes**, **Terraform**, and advanced **AWS** cloud infrastructure.
 - ☁️ Interested in: **DevOps Engineering, Cloud Computing, Full Stack Development, and CI/CD Automation**.
@@ -68,6 +68,7 @@ Instructions to set this up:
 
 ### 🏆 Certifications
 - 🏅 **ServiceNow Certified System Administrator (CSA)**
+- 🏅 **ServiceNow Certified Application Developer (CAD)**
 - ☁️ **AWS Cloud Virtual Internship** - AICTE - EduSkills
 
 ---
