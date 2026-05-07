@@ -24,8 +24,7 @@ Instructions to set this up:
 - 💼 Worked as a **Full Stack Developer Intern** at Prasunet Pvt Ltd (March 2025 - April 2025).
 - ⚙️ Deep-diving into **Kubernetes**, **Terraform**, and advanced **AWS** cloud infrastructure.
 - ☁️ Interested in: **DevOps Engineering, Cloud Computing, Full Stack Development, and CI/CD Automation**.
--  [Portfolo](https://vineesh-reddy.vercel.app/)
-- 📫 How to reach me: **[vineeshreddy4@gmail.com](mailto:vineeshreddy4@gmail.com)**
+- 📫 How to reach me: **[vineeshreddy4@gmail.com](mailto:vineeshreddy4@gmail.com)** , [Portfolio](https://vineesh-reddy.vercel.app/)
 
 ---
 
