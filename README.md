@@ -52,17 +52,17 @@ Instructions to set this up:
 
 ---
 
-###  Featured Projects
+### 🚀 Featured Projects
 
+- **[Supply Chain Command Center — Enterprise Automation on ServiceNow](https://github.com/Vineesh-12/supply-chain-command-center)**
+  *ServiceNow | JavaScript | REST API | Flow Designer | Service Portal | ACL Security*
+  <br/> A production-grade, enterprise Supply Chain Management application built natively on the ServiceNow platform. Unifies procurement, logistics, inventory, vendor management, and exception handling into a single automated Command Center — featuring inbound REST webhooks for 3PL carrier integration, dynamic SLA enforcement, automated financial impact calculations, and a secure multi-vendor Service Portal with row-level data isolation.
 - **[Automated CI/CD Deployment of Inventory System on AWS](https://github.com/Vineesh-12)**
   *Terraform | Ansible | Docker | Kubernetes | Jenkins | AWS*
   <br/> Built an automated CI/CD pipeline, implementing Infrastructure as Code to provision AWS resources and using Kubernetes for scalable container management.
 - **[StayEase - Hotel Booking Platform](https://github.com/Vineesh-12)**
   *HTML | CSS | JavaScript | Bootstrap | SQL*
   <br/> A responsive hotel booking application with dynamic room availability checks and optimized database management.
-- **[IPO Web Application](https://github.com/Vineesh-12)**
-  *HTML | CSS | JavaScript | Bootstrap | SQL*
-  <br/> Platform enabling users to view upcoming IPOs and submit bookings, featuring role-based access for separate user and admin dashboards.
 
 ---
 
