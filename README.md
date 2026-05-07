@@ -45,6 +45,9 @@ Instructions to set this up:
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+**Platforms:**  
+![ServiceNow](https://img.shields.io/badge/ServiceNow-009BDE?style=for-the-badge&logo=servicenow&logoColor=white)
+
 **Web Development:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -56,13 +59,23 @@ Instructions to set this up:
 
 - **[Supply Chain Command Center — Enterprise Automation on ServiceNow](https://github.com/Vineesh-12/supply-chain-command-center)**
   *ServiceNow | JavaScript | REST API | Flow Designer | Service Portal | ACL Security*
-  <br/> A production-grade, enterprise Supply Chain Management application built natively on the ServiceNow platform. Unifies procurement, logistics, inventory, vendor management, and exception handling into a single automated Command Center — featuring inbound REST webhooks for 3PL carrier integration, dynamic SLA enforcement, automated financial impact calculations, and a secure multi-vendor Service Portal with row-level data isolation.
-- **[Automated CI/CD Deployment of Inventory System on AWS](https://github.com/Vineesh-12)**
+  - Developed a production-grade Supply Chain Management application built natively on ServiceNow.
+  - Unified procurement, logistics, inventory, and vendor management into a single automated Command Center.
+  - Integrated inbound REST webhooks for 3PL carrier tracking updates.
+  - Automated dynamic SLA enforcement and financial impact penalty calculations.
+  - Built a secure multi-vendor Service Portal with row-level data isolation.
+
+- **[Automated CI/CD Deployment of Inventory System on AWS](https://github.com/Vineesh-12/inventory-devops-project)**
   *Terraform | Ansible | Docker | Kubernetes | Jenkins | AWS*
-  <br/> Built an automated CI/CD pipeline, implementing Infrastructure as Code to provision AWS resources and using Kubernetes for scalable container management.
-- **[StayEase - Hotel Booking Platform](https://github.com/Vineesh-12)**
+  - Built an automated CI/CD pipeline for deploying an inventory system to AWS.
+  - Implemented Infrastructure as Code using Terraform to provision AWS resources.
+  - Utilized Kubernetes and Docker for scalable container management and orchestration.
+
+- **[StayEase - Hotel Booking Platform](https://github.com/Vineesh-12/StayEase)**
   *HTML | CSS | JavaScript | Bootstrap | SQL*
-  <br/> A responsive hotel booking application with dynamic room availability checks and optimized database management.
+  - Developed a responsive hotel booking application.
+  - Implemented dynamic room availability checks.
+  - Optimized backend database management and user reservations using SQL.
 
 ---
 
