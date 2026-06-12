@@ -90,7 +90,7 @@ Instructions to set this up:
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vineesh-12&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Vineesh-12&theme=dark&background=000000&border=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=fafafa&currStreakLabel=a3a3a3&sideLabels=a3a3a3&dates=737373&hide_border=true" alt="GitHub Streak" loading="lazy">
 
 </div>
 
