@@ -99,14 +99,6 @@
 
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Vineesh-12&theme=dark&background=000000&border=1a1a1a&stroke=ffffff&ring=e63946&fire=e63946&currStreakNum=ffffff&sideNums=fafafa&currStreakLabel=e63946&sideLabels=a3a3a3&dates=737373" alt="GitHub Streak" />
 
-  <br/><br/>
-
-  <img src="https://github-readme-stats-vineesh.vercel.app/api?username=Vineesh-12&show_icons=true&theme=dark&bg_color=000000&title_color=e63946&icon_color=e63946&text_color=ffffff&border_color=1a1a1a" alt="GitHub Stats" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats-vineesh.vercel.app/api/top-langs/?username=Vineesh-12&layout=compact&theme=dark&bg_color=000000&title_color=e63946&text_color=ffffff&border_color=1a1a1a" alt="Top Languages" />
-
 </div>
 
 ---
