@@ -76,7 +76,7 @@
   - Built a secure multi-vendor Service Portal with row-level data isolation.
 
 - **[CardioCare AI — Clinical Decision Support for Heart Disease](https://github.com/Vineesh-12)**
-  *Python | Streamlit | Scikit-Learn | XGBoost | SHAP | LIME | Plotly | Pandas*
+  *Python | Scikit-Learn | XGBoost | SHAP | LIME | Plotly | Pandas*
   - Engineered a clinical decision-support web application using Streamlit to predict heart disease probability from 13 patient vitals.
   - Developed a high-accuracy Stacking Ensemble Classifier (Random Forest, KNN, Logistic Regression) using Scikit-Learn.
   - Implemented Explainable AI (SHAP & LIME) with custom mathematical wrappers to translate normalized data into readable clinical thresholds.
